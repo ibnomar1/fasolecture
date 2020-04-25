@@ -1,0 +1,64 @@
+﻿[class*="col-"] {
+margin-bottom:20px;
+}
+img {
+	
+	
+}
+.navbar-inverse {
+display:inline-block;	
+}
+
+#garde{
+	background:url("photos/acceuil.jpg") no-repeat ; height:500px; 
+	
+}
+
+body{
+	padding-bottom: 60px;
+	margin-top:50px;
+	background-color:lightblue;
+	padding-top: 80px; /* 60px to make the container go all the
+way to the bottom of the topbar */
+	
+	
+}
+
+
+
+
+aside
+{ 
+text-align: justify;  overflow: auto; 
+
+	
+}
+aside h2
+{ text-align: center; text-decoration: underline;
+}
+
+
+.cover
+{float:left; position: relative; right: 5px;
+}
+
+.bg-ombre
+{
+background-color:rgba(215,237,251,1);	
+border-radius:10px;
+box-shadow:2px 2px 2px 2px;
+
+}
+.resume
+{
+color:red;	
+}
+
+.essai 
+{
+color:red;	
+}
+
+
+
+
