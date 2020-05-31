@@ -71,5 +71,8 @@ margin-top:250px;
 	display:block;
 }
 
-
+@media screen and (max-height: 450px) {
+  nav img {width:20px;height:auto;}
+    
+}
 
